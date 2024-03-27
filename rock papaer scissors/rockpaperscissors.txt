@@ -1,0 +1,1 @@
+so rockpaperscissors.py is rockk paper scissors against randomness
